@@ -132,7 +132,7 @@ The instructors and authors whose work shaped my understanding of AWS.
 
 Scheduling your AWS certification exam in Pakistan with a Pakistani credit/debit card is not possible, as Pearson has blacklisted Pakistan for unknown reasons. However, you have two options:
 
-1. You can **purchase an exam voucher** from a trusted voucher site like [AWS Exam Voucher](https://www.examvouchers.com) and use it to schedule your exam.
+1. You can **purchase an exam voucher** from a trusted voucher site like [AWS Exam Voucher](https://market.xvoucher.com/aws-ec/home) and use it to schedule your exam.
 
 2. Alternatively, you can **contact an exam test center** in your area to book the exam on your behalf. You will need to pay them directly for the exam booking.
 
