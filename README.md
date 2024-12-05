@@ -12,7 +12,8 @@ This repository documents my detailed experience preparing for and successfully 
 5. [Exam Preparation Tips](#exam-preparation-tips)  
 6. [Exam Day Experience](#exam-day-experience)  
 7. [Future Plans](#future-plans)  
-8. [Acknowledgments](#acknowledgments)  
+8. [Acknowledgments](#acknowledgments)
+9. [Important Note for Pakistani Aspirants](#Important-note-for-pakistani-aspirants)
 
 # Motivation
 
@@ -124,6 +125,18 @@ Special thanks to the following resources and individuals:
 Stephane Maarek for his exceptional AWS Cloud Course.
 Tutorial Dojo for realistic and invaluable practice exams.
 The instructors and authors whose work shaped my understanding of AWS.
+
+---
+
+## Important Note for Pakistani Aspirants
+
+Scheduling your AWS certification exam in Pakistan with a Pakistani credit/debit card is not possible, as Pearson has blacklisted Pakistan for unknown reasons. However, you have two options:
+
+1. You can **purchase an exam voucher** from a trusted voucher site like [AWS Exam Voucher](https://www.examvouchers.com) and use it to schedule your exam.
+
+2. Alternatively, you can **contact an exam test center** in your area to book the exam on your behalf. You will need to pay them directly for the exam booking.
+
+Make sure to plan ahead and allow some time for this process when scheduling your exam.
 
 ---
 
